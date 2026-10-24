@@ -15,7 +15,8 @@ I build APIs, real-time systems, and ML-powered apps.
 - **[Real-Time Chat Backend](https://github.com/Hamdy812/Real-Time-Chat-Backend)**: real-time chat server
 - **[Clinic Booking System](https://github.com/Hamdy812/Clinic-Booking-System)**: appointment booking platform
 ## 🧠 Competitive Programming
-[![Codeforces](https://img.shields.io/badge/Codeforces-BatMan812-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/BatMan812)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-008000?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/BatMan812)
+Codeforces **Pupil** (BatMan812): solving algorithmic problems regularly.
 
 ## 📫 Reach me
 - [LinkedIn](https://www.linkedin.com/in/hamdy-osama/)
