@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Hamdy 👋
 
 Backend Developer (Node.js) and AI Intern at Samsung.
