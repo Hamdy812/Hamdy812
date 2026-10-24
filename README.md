@@ -20,5 +20,4 @@ I build APIs, real-time systems, and ML-powered apps.
 ## 📫 Reach me
 - [LinkedIn](https://www.linkedin.com/in/hamdy-osama/)
 - [Codeforces](https://codeforces.com/profile/BatMan812)
-- ⚡ Fun fact: ...
--->
+
