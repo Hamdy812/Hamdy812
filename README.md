@@ -1,16 +1,24 @@
 ## Hi there 👋
+# Hi, I'm Hamdy 👋
 
-<!--
-**Hamdy812/Hamdy812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer (Node.js) and AI Intern at Samsung.
+I build APIs, real-time systems, and ML-powered apps.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 🚀 Featured Projects
+- **[Fake Job Detector](https://github.com/Hamdy812/fake-job-detector)**: ML system that detects fraudulent job postings (stacking ensemble + Streamlit app)
+- **[Real-Time Chat Backend](https://github.com/Hamdy812/Real-Time-Chat-Backend)**: real-time chat server
+- **[Clinic Booking System](https://github.com/Hamdy812/Clinic-Booking-System)**: appointment booking platform
+## 🧠 Competitive Programming
+[![Codeforces](https://img.shields.io/badge/Codeforces-BatMan812-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/BatMan812)
+
+## 📫 Reach me
+- [LinkedIn](https://www.linkedin.com/in/hamdy-osama/)
+- [Codeforces](https://codeforces.com/profile/BatMan812)
 - ⚡ Fun fact: ...
 -->
